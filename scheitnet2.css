@@ -60,10 +60,10 @@ h1
   font-size:250%;
   font-style: normal;
   font-weight: 300;
-  color: #696969;
+  color: #1570a6;
   margin-bottom: 0.75em;
   line-height: 120%;
-  text-shadow: 1px 1px 1px #FF0000;
+  text-shadow: 2px 2px 2px #ccc;
 			}
 h2			
 			{
@@ -71,10 +71,10 @@ h2
   font-size:300%;
   font-style: normal;
   font-weight: 300;
-  color: #696969;
+  color: #1570a6;
   margin-bottom: 0.75em;
   line-height: 120%;
-  text-shadow: 1px 1px 1px #FF0000;
+  text-shadow: 2px 2px 2px #ccc;
 			}
 h3			
 			{
@@ -106,24 +106,25 @@ p			{
 
 a:link		
 			{
-			color: #FF0000; font-weight: none;
-			text-decoration: none;
+			color: #0000FF; font-weight: none;
+			text-decoration: underline;
 			}
 
 a:visited	
 			{
-			color: #FF0000; font-weight: none;
-			text-decoration: none;
+			color: #0000FF; font-weight: none;
+			text-decoration: underline;
 			}
 
 a:active	
 			{
-			color: #FF0000; font-weight: none;
-			text-decoration: none;
+			color: #0000FF; font-weight: none;
+			text-decoration: underline;
 			}
 
 a:hover		
 			{
-			color: #FF0000; font-weight: none;
+			color: #0000FF; font-weight: none;
 			text-decoration: underline;
+			background-color: #C0FFFF;
 			}
