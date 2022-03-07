@@ -106,25 +106,25 @@ p			{
 
 a:link		
 			{
-			color: #0000FF; font-weight: none;
+			color: #0054B1; font-weight: none;
 			text-decoration: underline;
 			}
 
 a:visited	
 			{
-			color: #0000FF; font-weight: none;
+			color: #0054B1; font-weight: none;
 			text-decoration: underline;
 			}
 
 a:active	
 			{
-			color: #0000FF; font-weight: none;
+			color: #0054B1; font-weight: none;
 			text-decoration: underline;
 			}
 
 a:hover		
 			{
-			color: #0000FF; font-weight: none;
+			color: #0054B1; font-weight: none;
 			text-decoration: underline;
-			background-color: #e4f2f7;
+			background-color: #F7D000;
 			}
