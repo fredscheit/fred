@@ -104,12 +104,12 @@ li 			{
 
 a {
   position: relative;
-  color: #6364FF;
+  color: #9b9cfc;
   text-decoration: none;
 }
 
 a:hover {
-  color: #6364FF;
+  color: #9b9cfc;
 }
 
 a::before {
@@ -120,7 +120,7 @@ a::before {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #6364FF;
+  background-color: #9b9cfc;
   transform: scaleX(0);
   transition: transform 0.3s ease;
 }
