@@ -1,11 +1,11 @@
 @charset "iso-8859-1";
 /* 
-scheit.net Style Sheet 
+Style Sheet 
 */
 
 body			
 			{
-			background-color: #FFFFFF;
+			background-color: #121212;
 			background-repeat:repeat;
 			margin: 0px;
 			padding: 0px; 
@@ -56,10 +56,10 @@ h1
   font-size:250%;
   font-style: normal;
   font-weight: 300;
-  color: #1570A6;
+  color: #ccc;
   margin-bottom: 0.75em;
   line-height: 120%;
-  text-shadow: 2px 2px 2px #ccc;
+  text-shadow: 2px 2px 2px #008b8b;
 			}
 h2			
 			{
@@ -67,10 +67,10 @@ h2
   font-size:300%;
   font-style: normal;
   font-weight: 300;
-  color: #1570A6;
+  color: #ccc;
   margin-bottom: 0.75em;
   line-height: 120%;
-  text-shadow: 2px 2px 2px #ccc;
+  text-shadow: 2px 2px 2px #008b8b;
 			}
 h3			
 			{
@@ -104,12 +104,12 @@ li 			{
 
 a {
   position: relative;
-  color: #0000FF;
+  color: #00FFFF;
   text-decoration: none;
 }
 
 a:hover {
-  color: #0000FF;
+  color: #00FFFF;
 }
 
 a::before {
@@ -120,7 +120,7 @@ a::before {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #0000FF;
+  background-color: #00FFFF;
   transform: scaleX(0);
   transition: transform 0.3s ease;
 }
