@@ -63,7 +63,7 @@ h1
   color: #ccc;
   margin-bottom: 0.75em;
   line-height: 120%;
-  text-shadow: 2px 2px 2px #008b8b;
+  text-shadow: 2px 2px 2px #6364FF;
 			}
 h2			
 			{
@@ -74,7 +74,7 @@ h2
   color: #ccc;
   margin-bottom: 0.75em;
   line-height: 120%;
-  text-shadow: 2px 2px 2px #008b8b;
+  text-shadow: 2px 2px 2px #6364FF;
 			}
 h3			
 			{
@@ -106,12 +106,12 @@ p			{
 
 a {
   position: relative;
-  color: #00FFFF;
+  color: #6364FF;
   text-decoration: none;
 }
 
 a:hover {
-  color: #00FFFF;
+  color: #6364FF;
 }
 
 a::before {
@@ -122,7 +122,7 @@ a::before {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #00FFFF;
+  background-color: #6364FF;
   transform: scaleX(0);
   transition: transform 0.3s ease;
 }
