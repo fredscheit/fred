@@ -5,7 +5,7 @@ Style Sheet
 
 body			
 			{
-			background-color: #002226;
+			background-color: #1F1F1F;
 			background-repeat:repeat;
 			margin: 0px;
 			padding: 0px; 
@@ -59,7 +59,7 @@ h1
   color: #ccc;
   margin-bottom: 0.75em;
   line-height: 120%;
-  text-shadow: 2px 2px 2px #008080;
+  text-shadow: 2px 2px 2px #0C7072;
 			}
 h2			
 			{
@@ -70,7 +70,7 @@ h2
   color: #ccc;
   margin-bottom: 0.75em;
   line-height: 120%;
-  text-shadow: 2px 2px 2px #008080;
+  text-shadow: 2px 2px 2px #0C7072;
 			}
 h3			
 			{
@@ -104,12 +104,12 @@ li 			{
 
 a {
   position: relative;
-  color: #00b3b3;
+  color: #14BCBF;
   text-decoration: none;
 }
 
 a:hover {
-  color: #00b3b3;
+  color: #1FCDD1;
 }
 
 a::before {
@@ -120,7 +120,7 @@ a::before {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #00b3b3;
+  background-color: #1FCDD1;
   transform: scaleX(0);
   transition: transform 0.3s ease;
 }
@@ -134,7 +134,7 @@ ul {
 
 ul li::before {
   content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
-  color: #00b3b3; /* Change the color */
+  color: #14BCBF; /* Change the color */
   font-weight: bold; /* If you want it to be bold */
   display: inline-block; /* Needed to add space between the bullet and the text */
   width: 1em; /* Also needed for space (tweak if needed) */
