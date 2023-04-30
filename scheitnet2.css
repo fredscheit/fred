@@ -5,7 +5,7 @@ Style Sheet
 
 body			
 			{
-			background-color: #1f1f1f;
+			background-color: #FFFFFF;
 			background-repeat:repeat;
 			margin: 0px;
 			padding: 0px; 
@@ -60,10 +60,9 @@ h1
   font-size:250%;
   font-style: normal;
   font-weight: 300;
-  color: #ccc;
+  color: #0032AA;
   margin-bottom: 0.75em;
   line-height: 120%;
-  text-shadow: 2px 2px 2px #0C7072;
 			}
 h2			
 			{
@@ -71,10 +70,9 @@ h2
   font-size:300%;
   font-style: normal;
   font-weight: 300;
-  color: #ccc;
+  color: #0032AA;
   margin-bottom: 0.75em;
   line-height: 120%;
-  text-shadow: 2px 2px 2px #0C7072;
 			}
 h3			
 			{
@@ -82,7 +80,7 @@ h3
   font-size:125%;
   font-style: normal;
   font-weight: 300;
-  color: #faf9f6;
+  color: #000000;
   line-height: 175%;
 			}
 
@@ -95,7 +93,7 @@ p, li
   font-style: normal;
   font-weight: 300;
   line-height: 1.50em;
-  color: #FFFFFF;
+  color: #000000;
 			}
 p			{
 			padding-left: 10px;
@@ -107,12 +105,12 @@ p			{
 
 a {
   position: relative;
-  color: #14BCBF;
+  color: #0032AA;
   text-decoration: none;
 }
 
 a:hover {
-  color: #1FCDD1;
+  color: #0032AA;
 }
 
 a::before {
@@ -123,7 +121,7 @@ a::before {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #1FCDD1;
+  background-color: #0032AA;
   transform: scaleX(0);
   transition: transform 0.3s ease;
 }
