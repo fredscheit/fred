@@ -1,2 +1,2 @@
 
-This is a cut-down version of my family web site.
+This is a hub web page, to redirect to my main website.
