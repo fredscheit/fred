@@ -74,7 +74,7 @@ h2
   color: #808080;
   margin-bottom: 0.75em;
   line-height: 120%;
-  text-shadow: 1px 1px 1px #10ad52;
+  text-shadow: 1px 1px 1px #FFFFFF;
 			}
 h3			
 			{
@@ -82,7 +82,7 @@ h3
   font-size:125%;
   font-style: normal;
   font-weight: 300;
-  color: #d5fbe5;
+  color: #c0c0c0;
   line-height: 175%;
 			}
 
@@ -106,13 +106,13 @@ li 			{
 			}			
 a:link		
 			{
-			color: #75F4AB; font-weight: none;
+			color: #c0c0c0; font-weight: none;
 			text-decoration: underline;
 			}
 
 a:visited	
 			{
-			color: #75F4AB; font-weight: none;
+			color: #c0c0c0; font-weight: none;
 			text-decoration: underline;
 			}
 
@@ -124,7 +124,7 @@ a:active
 a:hover		
 			{
 			color: #121212; font-weight: none;
-			background-color: #75f4ab;
+			background-color: #c0c0c0;
             text-decoration: none;
 			}	
 ul {
