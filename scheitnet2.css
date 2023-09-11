@@ -63,7 +63,7 @@ h1
   color: #808080;
   margin-bottom: 0.75em;
   line-height: 120%;
-  
+  text-shadow: 1px 1px 1px #FFFFFF;
 			}
 h2			
 			{
@@ -82,7 +82,7 @@ h3
   font-size:125%;
   font-style: normal;
   font-weight: 300;
-  color: #c0c0c0;
+  color: #C0C0C0;
   line-height: 175%;
 			}
 
