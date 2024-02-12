@@ -1,2 +1,2 @@
 
-This is a hub web page, with direct links to my main website.
+This is a mirror website, with direct links to my family pages.
