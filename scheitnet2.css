@@ -5,7 +5,7 @@ Style Sheet
 
 body			
 			{
-			background-color: #061825;
+			background-color: #F5F3ED;
 			background-repeat:repeat;
 			margin: 0px;
 			padding: 0px; 
@@ -63,7 +63,7 @@ h1
   color: #808080;
   margin-bottom: 0.75em;
   line-height: 120%;
-  text-shadow: 1px 1px 1px #1570A6;
+  text-shadow: 1px 1px 1px #494847;
 			}
 h2			
 			{
@@ -74,7 +74,7 @@ h2
   color: #808080;
   margin-bottom: 0.75em;
   line-height: 120%;
-  text-shadow: 1px 1px 1px #1570A6;
+  text-shadow: 1px 1px 1px #494847;
 			}
 h3			
 			{
@@ -82,7 +82,7 @@ h3
   font-size:125%;
   font-style: normal;
   font-weight: 300;
-  color: #c8cfd4;
+  color: #62615E;
   line-height: 175%;
 			}
 
@@ -106,13 +106,13 @@ li 			{
 			}			
 a:link		
 			{
-			color: #c0c0c0; font-weight: none;
+			color: #62615E; font-weight: none;
 			text-decoration: underline;
 			}
 
 a:visited	
 			{
-			color: #c0c0c0; font-weight: none;
+			color: #62615E; font-weight: none;
 			text-decoration: underline;
 			}
 
@@ -123,9 +123,9 @@ a:active
 
 a:hover		
 			{
-			color: #c0c0c0; font-weight: none;
-			background-color: #082437;
-            		text-decoration: underline #00FFFF;
+			color: #62615E; font-weight: none;
+			background-color: #F5F3ED;
+            		text-decoration: underline #0000FF;
 			}	
 ul {
   list-style: none; /* Remove default bullets */
@@ -133,7 +133,7 @@ ul {
 
 ul li::before {
   content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
-  color: #ccccff; /* Change the color */
+  color: #ABAAA5; /* Change the color */
   font-weight: bold; /* If you want it to be bold */
   display: inline-block; /* Needed to add space between the bullet and the text */
   width: 1em; /* Also needed for space (tweak if needed) */
