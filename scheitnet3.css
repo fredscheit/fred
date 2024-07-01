@@ -63,21 +63,20 @@ h1
 			}
 h2			
 			{
-  font-family: 'Alex Brush', handwriting;
-  font-size:400%;
+  font-family: 'Baskervville', serif;
+  font-size:300%;
   font-style: normal;
-  font-weight: 400;
-  color: #DAA520;
-  margin-bottom: 0.75em;
-  line-height: 120%;
+  font-weight: 300;
+  color: #282828;
+  line-height: 175%;
 			}
 h3			
 			{
   font-family: 'Aleo', serif;
-  font-size:150%;
+  font-size:100%;
   font-style: normal;
   font-weight: 300;
-  color: #282828;
+  color: #000000;
   line-height: 175%;
 			}
 
@@ -101,14 +100,14 @@ li 			{
 a:link		
 			{
 			font-family: 'Aleo', serif;
-			font-size:150%;
-			color: #62615E; font-weight: none;
+			font-size:125%;
+			color: #000000; font-weight: none;
 			text-decoration: underline;
 			}
 
 a:visited	
 			{
-			color: #62615E; font-weight: none;
+			color: #000000; font-weight: none;
 			text-decoration: underline;
 			}
 
@@ -119,9 +118,9 @@ a:active
 
 a:hover		
 			{
-			color: #62615E; font-weight: none;
+			color: #000000; font-weight: none;
 			background-color: #FCF5E5;
-            		text-decoration: underline #FF0000;
+            		text-decoration: underline #0000FF;
 			}			
 ul {
   list-style: none; /* Remove default bullets */
