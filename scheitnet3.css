@@ -1,0 +1,136 @@
+@charset "iso-8859-1";
+/* 
+Style Sheet 
+*/
+
+body			
+			{
+			background-color: #282828;
+			background-repeat:repeat;
+			margin: 0px;
+			padding: 0px; 
+			font-family: Verdana, Arial, sans-serif;
+			font-size: 10px;
+			text-align: center;
+			}
+
+#a1		
+			{
+			background-color: #000000;
+			border-width: 0px 0px;
+			border-style: solid;
+			border-color: #000; 
+			margin: 0px auto; padding: 4px;
+			width: 560px;
+			text-align: justify;
+			}
+
+#b2	
+			{
+			background-color: #FFFFEF;
+			border-width: 1px 1px;
+			border-style: solid;
+			border-color: #C0C0C0; 
+			margin: 0px auto; padding: 4px;
+			width: 560px;
+			text-align: justify;
+			}
+
+
+#c3		
+			{
+			background-color: #F7F3F7;
+			border-width: 1px 1px;
+			border-style: solid;
+			border-color: #C0C0C0; 
+			margin: 0px auto; padding: 4px;
+			width: 560px;
+			text-align: justify;
+			}
+
+/* Headings definition */
+
+h1			
+			{
+  font-family: 'Oswald', sans-serif;
+  font-size:250%;
+  font-style: normal;
+  font-weight: 300;
+  color: #808080;
+  margin-bottom: 0.75em;
+  line-height: 120%;
+  
+			}
+h2			
+			{
+  font-family: 'Oswald', sans-serif;
+  font-size:300%;
+  font-style: normal;
+  font-weight: 300;
+  color: #BBA53D;
+  line-height: 175%;
+			}
+h3			
+			{
+  font-family: 'Aleo', serif;
+  font-size:100%;
+  font-style: normal;
+  font-weight: 300;
+  color: #000000;
+  line-height: 175%;
+			}
+
+/* Paragraph definition */
+
+p	
+			{
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 1.50em;
+  color: #515151;
+			}
+p			{
+			padding-left: 10px;
+			padding-right: 10px;
+			}
+li 			{
+    			margin-bottom: 15px;
+			}			
+a:link		
+			{
+			font-family: 'Aleo', serif;
+			font-size:125%;
+			color: #C0C0C0; font-weight: none;
+			text-decoration: underline;
+			}
+
+a:visited	
+			{
+			color: #C0C0C0; font-weight: none;
+			text-decoration: underline;
+			}
+
+a:active	
+			{
+			color: #0000FF; font-weight: none;
+			}
+
+a:hover		
+			{
+			color: #C0C0C0; font-weight: none;
+			background-color: #282828;
+            		text-decoration: underline #FFEA00;
+			}			
+ul {
+  list-style: none; /* Remove default bullets */
+}
+
+ul li::before {
+  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #BBA53D; /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
