@@ -5,8 +5,8 @@ Style Sheet
 
 body			
 			{
-			background-color: #282828;
-			background-repeat:repeat;
+			background: rgb(40,40,40);
+background: linear-gradient(180deg, rgba(40,40,40,1) 0%, rgba(15,58,107,1) 100%);
 			margin: 0px;
 			padding: 0px; 
 			font-family: Verdana, Arial, sans-serif;
