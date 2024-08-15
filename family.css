@@ -125,7 +125,7 @@ a:active
 a:hover		
 			{
 			color: #C0C0C0; font-weight: none;
-            		text-decoration: underline #FFEA00;
+            		text-decoration: underline #3CDBC1;
 			}	
 ul {
   list-style: none; /* Remove default bullets */
