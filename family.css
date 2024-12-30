@@ -5,8 +5,7 @@ Style Sheet
 
 body			
 			{
-			background: rgb(40,40,40);
-background: linear-gradient(165deg, rgba(40,40,40,1) 0%, rgba(0,109,111,1) 100%);
+			background: rgb(34,50,51);
 			margin: 0px;
 			padding: 0px; 
 			font-family: Verdana, Arial, sans-serif;
