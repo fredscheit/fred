@@ -5,7 +5,7 @@ Style Sheet
 
 body			
 			{
-			background-color: #CCE2E2;
+			background-color: #E5E4E2;
 			margin: 0px;
 			padding: 0px; 
 			font-family: Verdana, Arial, sans-serif;
@@ -70,14 +70,14 @@ h2
   font-size:350%;
   font-style: normal;
   font-weight: 400;
-  color: #006D6F;
+  color: #808080;
   line-height: 100%;
  
 			}
 h3			
 			{
-  font-family: 'Aleo', serif;
-  font-size:125%;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size:150%;
   font-style: normal;
   font-weight: 300;
   color: #000000;
@@ -106,24 +106,24 @@ a:link
 			{
 			font-family: 'Oswald', sans-serif;
 			font-size:150%;
-			color: #006D6F; font-weight: none;
+			color: #708090; font-weight: none;
 			text-decoration: underline;
 			}
 
 a:visited	
 			{
-			color: #006D6F; font-weight: none;
+			color: #708090; font-weight: none;
 			text-decoration: underline;
 			}
 
 a:active	
 			{
-			color: #006D6F; font-weight: none;
+			color: #708090; font-weight: none;
 			}
 
 a:hover		
 			{
-			color: #006D6F; font-weight: none;
+			color: #708090; font-weight: none;
             		text-decoration: underline #3CDBC1;
 			}	
 ul {
