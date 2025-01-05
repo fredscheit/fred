@@ -1,0 +1,59 @@
+html,
+body,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #282828;
+  height: 100%;
+  width: 100%;
+}
+
+main {
+  display: block;
+  font-family: 'Roboto';
+  position: absolute;
+  top: 30%;
+  width: 100%;
+}
+
+h1 {
+  color: #DCDAD5;
+  display: block;
+  margin: 0 auto;
+  text-align: left;
+  width: 400px;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #DCDAD5;
+  opacity: .4;
+  width: 400px;
+}
+
+ul {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+}
+
+li {
+  color: #DCDAD5;
+  display: inline-block;
+  font-size: 1.2em;
+  line-height: 1.5;
+  list-style: none;
+  margin: 5px;
+}
+
+a {
+  color: #7c9fa6;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3CDBC1;
+}
