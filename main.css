@@ -21,7 +21,7 @@ main {
 h1 {
   color: #DCDAD5;
   font-family: "Oswald", serif;
-  font-size:250%;
+  font-size:200%;
   font-style: normal;
   font-weight: 400;
   display: block;
@@ -47,7 +47,7 @@ li {
   color: #DCDAD5;
   font-family: "Oswald", serif;
   display: inline-block;
-  font-size: 1.5em;
+  font-size:125%;
   line-height: 1.5;
   list-style: none;
   margin: 5px;
