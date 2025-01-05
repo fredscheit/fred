@@ -1,1 +1,1 @@
-This is my family website.
+This is the startpage to my family website.
