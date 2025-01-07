@@ -7,6 +7,10 @@ ul {
 
 body {
   background: #CCE2E2;
+  background-image: url("threads-2.jpg");
+  background-repeat: repeat;
+  background-position: right top;
+  background-attachment: fixed;
   width: 100%;
 }
 
@@ -60,6 +64,6 @@ a {
 }
 
 a:hover {
-  color: #709596;
-  text-decoration: underline #3CDBC1;
+  color: #417272;
+  text-decoration: underline #417272;
 }
